@@ -25,7 +25,7 @@ setTimeout('Elastic()',100)
 <CENTER>
 <br><br><br><br>
 <br><br><br><br>
-<font color="green"><h2>This WebServer Genereted by</h2>
+<font color="green"><h2>This WebServer Genereted by Heno</h2>
 <font color="blue"><H1 ID "elastic" ALIGN="Center">Jenkins</H1>
 <h2>WebServer with IP: $myip</h2><br>Build by JENKINS usinng External Script!"
 </body>
